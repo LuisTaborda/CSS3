@@ -1,0 +1,9 @@
+body{
+	/*background-color: red;*/
+	background-image: url("../img/stone-blocked.jpg");
+	background-repeat: repeat-y repeat-x;
+	background-position: left; /*left, center or top*/
+	background-attachment: fixed;/* normal or fixed*/
+	/*background-size: 100% 100%;*/ 
+	
+}

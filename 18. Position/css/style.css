@@ -1,0 +1,14 @@
+#conteudo{
+	width:600px;
+	height:1200px;
+	background-color: #ccc;
+	position: relative; /* para objetos filhos se posicionar ao pai*/
+}
+
+#texto{
+	width: 500px;
+	background-color: aqua;
+	position: fixed; /*static, absolute, relavite e fixed*/
+	left:0; /*left or right*/
+	top:40px;	/* top or bottom*/
+}

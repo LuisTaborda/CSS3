@@ -1,0 +1,21 @@
+*{
+	font-size :100%;
+}
+
+@font-face{
+	font-family: 'optien';
+	src:url(../font/Optien.ttf);
+}
+p{
+	font-family: 'Lilita One', cursive;
+	font-variant: normal; /*normal e small caps*/
+	font-weight: normal; /*normal e bold*/
+	font-style: normal; /* normal, italic e oblique*/
+	font-size: 2em; /* 1 em = 16px*/
+}
+
+.font{
+font-family: 'optien', "Lilita One";
+font-size: 5em; /* 1 em = 16px*/
+color : green;
+}

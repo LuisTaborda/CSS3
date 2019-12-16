@@ -1,0 +1,26 @@
+:root{
+	--bg-color: #ccc;
+	--color-text:#fff;
+	--espacamento:20px;
+	--margim:10px;
+}
+#div1{
+	background-color: var(--bg-color);
+	color: var(--color-text);
+	padding: var(--espacamento);
+	margin-top:var(--margim);
+}
+#div2{
+	background-color: var(--bg-color);
+	color: var(--color-text);
+	padding: var(--espacamento);
+	margin-top:var(--margim);
+
+}
+#div3{
+	background-color: var(--bg-color);
+	color: var(--color-text);
+	padding: var(--espacamento);
+	margin-top:var(--margim);
+	
+}

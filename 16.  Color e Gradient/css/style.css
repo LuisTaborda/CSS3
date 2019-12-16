@@ -1,0 +1,13 @@
+*{
+	background-color: red;
+
+}
+
+#cores{
+	width: 200px;
+	height: 100px;
+	background : linear-gradient(to bottom,#444,#000);
+	color : white;
+	text-align: center;
+}
+

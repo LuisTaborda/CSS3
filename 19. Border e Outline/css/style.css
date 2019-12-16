@@ -1,0 +1,7 @@
+#exemplo{
+	/*border-style:solid;/*dotted, dashed, solid, double, groove,ridge,inset,outset*/
+	border-left:solid 3px gray;/*dotted, dashed, solid, double, groove,ridge,inset,outset*/
+	padding: 5px;
+	background-color: #eee;
+	/*outline: solid 1px black;*/
+}

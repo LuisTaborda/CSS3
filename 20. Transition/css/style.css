@@ -1,0 +1,18 @@
+#exemplo{
+	width:200px;
+	height: 200px;
+	background-color: red;
+	/*transition-property: width;
+	transition-duration: 2s;
+	transition-timing-function: linear;/*ease, ease-in, ease-out, ease-in, linear*/
+	/*transition-delay: 2s;*/
+	/*transition: width 2s linear 1s, height 2s linear 1s;*/
+	transition: all 0.4s linear;
+}
+
+#exemplo:hover{
+	width: 250px;
+	height: 250px;
+	background-color: green;
+}
+
